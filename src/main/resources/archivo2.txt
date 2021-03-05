@@ -1,0 +1,1 @@
+En este achivo se encuentre la informacion de un archivo txt devuelto por el servidor
